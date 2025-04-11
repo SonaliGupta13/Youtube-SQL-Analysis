@@ -69,7 +69,7 @@ This table contains monetary data related to each channel’s earnings.
 ### Table 3: channel_videos
 This table holds data about individual videos uploaded by each channel.
 
-### Table 3: channel_engagement
+### Table 4: channel_engagement
 This table tracks overall engagement trends per video on a channel.
 
 ## Queries, Insights and Recommendation
